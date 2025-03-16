@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+protobuf
+google-auth
+google-auth-oauthlib
+google-api-core
+grpcio
+matplotlib
+pandas
+numpy
+python-dotenv
+langchain
